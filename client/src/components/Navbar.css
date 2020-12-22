@@ -14,6 +14,10 @@
   cursor: pointer;
 }
 
+.navbar__logo a {
+  text-decoration: none;
+}
+
 .navbar__links {
   display: flex;
   list-style: none;
